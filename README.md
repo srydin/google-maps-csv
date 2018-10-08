@@ -1,5 +1,5 @@
 # google-maps-csv
-Use google Maps API to create a local CSV
+Use google Maps API to create a local CSV of google place listings by search terms / category.
 
 ########### Instructions for use on OSX:
 
