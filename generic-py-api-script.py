@@ -8,8 +8,8 @@ import csv
 import time
 
 # setup variables
-filename = raw_input('Filename to write in /usr/share/: ')
-filebase = "/usr/share/"
+filename = raw_input('Filename to write on Desktop: ')
+filebase = "~/Desktop/"
 filedestination = filebase + filename + ".csv"
 coordinates = raw_input('Coordinates in lat/long: ')
 radius = raw_input('Radius in meters - max: 50k: ')
